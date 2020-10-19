@@ -1548,7 +1548,12 @@ ul.post-comment li span{
 	
 	.wrapper {
     padding:0;
-}
+	}
+	
+	.site {
+		height: 100%;
+	}
+	
 	
 	.profile-image{
 			display:none;
